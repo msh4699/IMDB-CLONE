@@ -1,24 +1,19 @@
-# Alarm-Clock using Vanilla JavaScript
+# IMDB-CLONE using Vanilla JavaScript
 
-<li>This is a repository for Alarm Clock Developed using Vanilla JavaScript, HTML, CSS.</li>
+<li>This is a repository for  IMDB-CLONE Developed using Vanilla JavaScript, HTML, CSS.</li>
 <br>
 <li> It is developed to create a soothing Experience with powerful features and clean interface.</li>
 <br>
 
 
-# DEMO
-<br>
 
-<p align="center">
-<img src="https://user-images.githubusercontent.com/86460997/214771189-ed36d8e6-ca65-4496-a287-1b2d53ed69ef.gif">
-</p>
 
 
 
 
 # Problem Statement
 
-Create an alarm clock. Use ONLY vanilla javascript, no libraries or frameworks allowed for Javascript (you can use any css framework like Bootstrap).
+Create an  IMDB-CLONE. Use ONLY vanilla javascript, no libraries or frameworks allowed for Javascript (you can use any css framework like Bootstrap).
 <br>
 
 # Features Required
