@@ -18,23 +18,22 @@ Create an  IMDB-CLONE. Use ONLY vanilla javascript, no libraries or frameworks a
 
 # Features Required
 
-- <b>Clock face</b><br>
+- <b> IMDB-CLONE</b><br>
 
-  Clock showing the current time (seconds,mins,hrs should change as time changes)
+IMDB-CLONE shows the search results of movie, that will be fethched from OMDB 
+- <b>Search feature</b> <br>
 
-- <b>Set Alarm</b> <br>
+  -Provide the deatils of movie that we will search
+  -Fetch the results from OMDB, and represent the ratings, year of release, genre etc of the movie.
 
-  - Provide input boxes to set an alarm (hr,min,sec, am/pm)
-  - Once the sets the time and click “Set Alarm” button, add that alarm to the alarms list below
-  - When the alarm goes of just use JS alert function to alert in the browser
+- <b>favourite Button</b> <br>
 
-- <b>Alarms list</b> <br>
-
-  - Display a list of all the alarms set by user
+  - It included a favourite button
+  - When we click on add to favourite button, the displayed movie will be added to a list of favourites.
  
-- <b>Delete alarm</b> <br>
-  - For each alarm give a delete button to delete the alarm
-  - When the user deletes an alarm make sure it “does not alerts the user”
+- <b>Favourite List</b> <br>
+  - For each movie we add as favourite, it will show all the list of those movies.
+  - It will be on the side bar of web page.
 
 <br>
 
@@ -65,21 +64,6 @@ Create an  IMDB-CLONE. Use ONLY vanilla javascript, no libraries or frameworks a
 > ## Checkout the Website [Web Application]( https://msh4699.github.io/IMDB-CLONE/)
 
 
-
-
-# Alarm-Clock
-
-<hr>
-
-![image](https://user-images.githubusercontent.com/86460997/209670687-29872ef1-b548-416f-8106-2149aa24c0f9.png)
-
-
-<br>
-
-# LINKS
-
- <!-- Page demo--> 
- <a href = "https://saurabhdixit93.github.io/ClockAlaram/" target="_blank" > <b>LIVE PRODUCT</b> </a>  &nbsp; <!-- repositary--> <a href = "https://saurabhdixit93.github.io/ClockAlaram/" target="_blank"> <b>CODE</b> </a> <br> 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------
 <br>
